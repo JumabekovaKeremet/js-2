@@ -35,3 +35,4 @@ console.log(" I\'m the best!");
 console.log("I'm the fan of \"" + artist + "\"!");
 console.log(`I'm the fan of "` + artist + `"!`);
 console.log(`My favourite movie is "` +  movie + `"`);
+console.log(`My favourite movie is "${movie}"`);
