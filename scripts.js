@@ -27,9 +27,6 @@ let movie= "Terminator";
 
 let firstName= prompt('What is your name?');
 */
-let a= +prompt("What is A?");
-let b= +prompt("What is B");
-let sum= a + b;
 
 /*console.log(fifth);
 console.log(capital + " is the capital of " + country);
@@ -46,4 +43,16 @@ console.log(`My favourite movie is "${movie}"`);
 
 
 /*console.log(`Your name is ${firstName}`);*/
+
+let a= +prompt("What is A?");
+let b= +prompt("What is B");
+let sum= a + b;
+
 console.log(`The sum of two numbers is equal to ${sum}`);
+
+let c= +prompt("What is C");
+let d= +prompt("What is D");
+let sum= c * d;
+
+
+console.log(`C mutliplied by D is egual to ???`);
