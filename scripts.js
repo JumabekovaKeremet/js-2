@@ -26,4 +26,5 @@ console.log(fifth);
 console.log(capital + " is the capital of " + country);
 console.log(subject + "is measured in "  + unit );
 console.log( "My favourite book is " + title + " by " + author + "!");
+console.log("My favourite song is 'Yesterday' by Beatles");
 console.log("My favourite song is \"Yesterday\" by Beatles");
