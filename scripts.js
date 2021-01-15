@@ -36,3 +36,7 @@ console.log("I'm the fan of \"" + artist + "\"!");
 console.log(`I'm the fan of "` + artist + `"!`);
 console.log(`My favourite movie is "` +  movie + `"`);
 console.log(`My favourite movie is "${movie}"`);
+
+let firstName= prompt('What is your name?');
+
+console.log(`Your name is ${firstName}`);
